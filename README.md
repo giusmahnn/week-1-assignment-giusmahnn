@@ -1,4 +1,6 @@
-# week1
+# week1 | Building Your Database Foundation
+
+This week, we'll establish a strong foundation in core database concepts. We'll explore key terms and delve into the fundamentals of database design.
 
 ## Section A: Definitions
 
