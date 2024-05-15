@@ -33,7 +33,9 @@ Web Applications:
 Imagine a dynamic website like an online store. How do you think SQL plays a role in managing data behind the scenes? Consider how product information, user accounts, and order details might be stored and accessed.
 
 **1.2.** Write a short explanation (3-5 sentences) in your document about the role of SQL in web applications.
+
 **1.3.** List 3 benefits of using SQL for web applications.
+
 **1.4.** Think about efficiency, data organization, and data retrieval capabilities. Briefly explain each benefit in your document (1-2 sentences per benefit).
 
 ## Part 2: Database Fundamentals (45 minutes)
