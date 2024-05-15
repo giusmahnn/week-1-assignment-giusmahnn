@@ -68,7 +68,7 @@ Considering the data points you listed, design a basic database schema with one 
 * Define the columns needed for this table.
 * Assign appropriate data types to each column based on the kind of data it will hold. (e.g., amount: number, date: date, category: text)
   
-In your document, create a table structure that includes:
+  In your document, create a table structure that includes:
 * Table name (e.g., Expenses)
 * Column names (e.g., expense_id, amount, date, category)
 * Data type for each column (e.g., INT, DECIMAL, DATE, TEXT)
