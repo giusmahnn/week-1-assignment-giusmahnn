@@ -85,4 +85,4 @@ Use drawing software or a simple table format to visually represent your schema.
 
 ** Remember: There might be multiple ways to design your database schema. The goal is to understand the concepts and create a logical structure to store our expense tracking data.
 
-_________________________________________ _WELLDONE_ _____________________________________________
+  _________________________________________ _WELLDONE_ _____________________________________________
