@@ -38,6 +38,8 @@ Imagine a dynamic website like an online store. How do you think SQL plays a rol
 
 **1.4.** Think about efficiency, data organization, and data retrieval capabilities. Briefly explain each benefit in your document (1-2 sentences per benefit).
 
+**1.5.** List any 3 Database Management Systems. 
+
 ## Part 2: Database Fundamentals (45 minutes)
 
 **Question 2.1: Tables**
@@ -77,10 +79,10 @@ Considering the data points you listed, design a basic database schema with one 
 
 ## Bonus:  
 
-Sketch a simple diagram of your table structure, including column names and data types.
+Sketch a simple Entity Relational Diagram (ERD) of your table structure, including column names and data types.
 
 Use drawing software or a simple table format to visually represent your schema.
 
 ** Remember: There might be multiple ways to design your database schema. The goal is to understand the concepts and create a logical structure to store our expense tracking data.
 
-______________________________________________________ _WELLDONE_ _________________________________________________________________
+_________________________________________ _WELLDONE_ _____________________________________________
