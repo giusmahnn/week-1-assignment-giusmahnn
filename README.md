@@ -27,6 +27,7 @@ ________________________________________________________________________________
 **Question 1. Research**
 
 Use online resources like websites or PowerPoint slides.
+
 **1.1.** In a single Word document, summarize your findings in a short paragraph (3-5 sentences).
 Web Applications:  
 
